@@ -41,4 +41,4 @@
 5. Motivation and spirit for changes
 6. Emotions!
 
-### Practice
+### Part 3: Practice

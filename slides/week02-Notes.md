@@ -2,13 +2,11 @@ So is man an unnatural animal?
 
 Man is a denatured animal.
 
-Just look at a little human animal at birth. A baby.
-
-That's right, if it had to rely solely on its nature to survive, it wouldn't get very far, and would probably even die quite quickly, its instincts being far too weak to guide it.
+Just look at a little human animal at birth. A baby, if it had to rely solely on its nature to survive, it wouldn't get very far, and would probably even die quite quickly, its instincts being far too weak to guide it.
 
 Whereas, for example, a small foal will instinctively succeed in walking, and even trotting, within a few dozen minutes,
 
-the little human animal - the one you call a baby - fails an average of 2,000 times before succeeding in putting one foot in front of the other. It will take 18 months of painstaking learning to succeed in doing what the foal knows instinctively how to do in less than an hour.
+The little human animal - the one you call a baby - fails an average of 2,000 times before succeeding in putting one foot in front of the other. It will take 18 months of painstaking learning to succeed in doing what the foal knows instinctively how to do in less than an hour.
 
 In short, we're failed animals.
 
@@ -16,9 +14,11 @@ Yes, well, that's precisely why we're accomplished humans.
 
 Our natural instinct is faulty, because we were born too early, we're all very premature.
 It takes about 18 months for the embryo's cells to develop all the way, but as you may know, after 9 months we're thrown into existence, unfinished and dependent, intangible and fragile.
+
 But this is also our greatest opportunity.
 
 Well, because we don't know how to do things instinctively, because our nature supports us so poorly, we compensate with culture.
+
 Receiving advice from elders, being educated by parents or older people, going to school, reading books, watching tutorials, relating to others.
 
 Because we don't know how to do things instinctively, we'll proceed by trial and error, by failure and learning, by trial and error and progress.
@@ -32,7 +32,7 @@ Because our nature supports us so poorly, we will turn to others and receive the
 Basically, we develop our culture because our nature is failing, and that's fine, but there's more to it than that.
 
 Because we are failed animals, not defined by our nature, nor determined by the solidity of our instinct, we can invent ourselves.
-Invent ourselves as this or that, become progressive or reactionary, kind or mean, just or unjust, competent or incompetent, luminary, luminous, pardon, or obscure, or luminary, luminary it's funny.
+Invent ourselves as this or that, become progressive or reactionary, kind or mean, just or unjust, competent or incompetent, luminous or obscure.
 
 Well, this failure of nature within us opens up an immense space for our freedom.
 
