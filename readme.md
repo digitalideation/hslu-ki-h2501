@@ -25,7 +25,7 @@
 2. Preceive it like Jo': George Berkeley - Objects cannot exist without being perceived
 4. Mo'Bo': Maurice Merleau Ponty, The perceiving body and its perceived world could not be disentangled from each other
 
-## Week 03
+## [Week 03](/slides/week03.html)
 
 ### Part 1: Trial and Error - A Common Ground ?
 
