@@ -1,6 +1,6 @@
 # Planning - KI PHI
 
-## [Week 04](/slides/week04.html)
+## [Session 01](/slides/week04.html)
 
 ### Introduction
 
@@ -25,7 +25,7 @@
 2. Preceive it like Jo': George Berkeley - Objects cannot exist without being perceived
 4. Mo'Bo': Maurice Merleau Ponty, The perceiving body and its perceived world could not be disentangled from each other
 
-## [Week 05](/slides/week05.html)
+## [Session 02](/slides/week05.html)
 
 ### Part 1: Trial and Error - A Common Ground ?
 
