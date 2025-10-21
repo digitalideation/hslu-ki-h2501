@@ -150,8 +150,7 @@ Then ask:
 
 > “Did the LLM truly _perceive_ the philosophers’ ideas, or did it just simulate them?”
 
-→ Brings the lesson full circle to your core question:
-**Does AI perceive, or does it merely process?**
+→ **Does AI perceive, or does it merely process?**
 
 ## 🪜 Recommended Flow (30–35 minutes total)
 
