@@ -164,5 +164,3 @@ Then ask:
 
 > **Optional closing question:**
 > “If perception is what makes a world _real_, what kind of world does AI live in?”
-
-Would you like me to make a short **teacher’s note** appendix (with learning goals + key takeaways for each activity) at the end of this Markdown file? It would make it ready for inclusion in your teaching repository or internal docs.
