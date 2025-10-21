@@ -7,9 +7,9 @@ Each activity helps translate abstract ideas from **George Berkeley** and **Maur
 
 ![Data or experience](../assets/data_or_experience.png)
 
-**Goal:** Differentiate between _processing information_ and _perceiving experience._.   
+**Goal:** Differentiate between _processing information_ and _perceiving experience._.  
 **Duration:** 5–10 minutes.  
-**Format:** Pairs or small groups.   
+**Format:** Pairs or small groups.
 
 ### Steps
 
@@ -38,22 +38,21 @@ Then on to:
 - **Berkeley’s view:** perception _creates_ the world.
 - **Merleau-Ponty’s view:** perception _happens through the body._
 
-
 ## Activity 2 — If the Sensors Go Dark
 
 ![A sensor goes dark](../assets/a_sensor_goes_dark.png)
 
 **Goal:** Apply **Berkeley’s** idea that _“to be is to be perceived.”_.  
 **Duration:** 5–8 minutes.  
-**Format:** Small groups.  
+**Format:** Small groups.
 
 ### Setup
 
 Consider this scenario:
 
-> “Imagine an AI vision system trained on millions of images.   
-> One day, it’s turned off — all sensors disconnected, no data coming in.   
-> Does its world still exist?”   
+> “Imagine an AI vision system trained on millions of images.  
+> One day, it’s turned off — all sensors disconnected, no data coming in.  
+> Does its world still exist?”
 
 ### Steps
 
@@ -77,9 +76,9 @@ Discuss a few answers. Then connect to **Berkeley**:
 
 ![Embodied or disembodied](../assets/embodied_or_disembodied.png)
 
-**Goal:** Experience **Merleau-Ponty’s** idea that perception is _embodied and situated._.   
+**Goal:** Experience **Merleau-Ponty’s** idea that perception is _embodied and situated._.  
 **Duration:** 7–10 minutes.  
-**Format:** Whole class or small groups.  
+**Format:** Whole class or small groups.
 
 Choose one of the following formats depending on your space and time.
 
@@ -121,9 +120,9 @@ Choose one of the following formats depending on your space and time.
 
 ![AI as a Philosopher](../assets/ai_%20as_%20a_philosopher.png)
 
-**Goal:** Use an AI language model (e.g., ChatGPT, Perplexity, Claude) to explore how machines interpret philosophical ideas.   
+**Goal:** Use an AI language model (e.g., ChatGPT, Perplexity, Claude) to explore how machines interpret philosophical ideas.  
 **Duration:** 10–15 minutes.  
-**Format:** Individual or pairs.  
+**Format:** Individual or pairs.
 
 ### Steps
 
@@ -154,12 +153,12 @@ Then ask:
 
 ## 🪜 Recommended Flow (30–35 minutes total)
 
-| Time    | Activity                     | Focus                  |
-| ------- | ---------------------------- | ---------------------- |
-| 5–7 min | 🧠 Data or Experience?       | Warm-up comparison     |
-| 8 min   | 🤖 If the Sensors Go Dark    | Apply Berkeley         |
-| 10 min  | 🧍 Embodied or Disembodied?  | Apply Merleau-Ponty    |
-| 10 min  | 💬 AI as a Philosopher (LLM) | Synthesis + reflection |
+| Time    | Activity                  | Focus                  |
+| ------- | ------------------------- | ---------------------- |
+| 5–7 min | Data or Experience?       | Warm-up comparison     |
+| 8 min   | If the Sensors Go Dark    | Apply Berkeley         |
+| 10 min  | Embodied or Disembodied?  | Apply Merleau-Ponty    |
+| 10 min  | AI as a Philosopher (LLM) | Synthesis + reflection |
 
 > **Optional closing question:**
 > “If perception is what makes a world _real_, what kind of world does AI live in?”
