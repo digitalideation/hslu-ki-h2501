@@ -126,7 +126,7 @@ Before moving to the practical activities reflect and debate these questions:
 
 ## 3.7 Readings
 
-- [How to make AI that's good for people](../resources/How%20to%20Make%20AI.html)
+- [How to make AI that's good for people](https://blog.google/technology/ai/how-make-ai-good-for-people/)
 - [George_Berkeley](https://en.m.wikipedia.org/wiki/George_Berkeley)
 - [Three_Dialogues_Between_Hylas_and_Philonous](https://en.wikisource.org/wiki/Three_Dialogues_Between_Hylas_and_Philonous)
 - [Maurice_Merleau-Ponty](https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty)
