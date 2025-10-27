@@ -2,11 +2,11 @@
 
 ## Learning materials
 
-- 📘 NotebookLM summary: _AI Perception: Berkeley and Merleau-Ponty_
-  - [Notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74)
-  - [Podcast](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74?artifactId=4f0253fe-b5c6-4697-8177-92c4323405b0)
+- 📘 NotebookLM: _AI Perception: Berkeley and Merleau-Ponty_
+  - [Notebook][notebooklm-notebook]
+  - [Podcast][notebooklm-podcast]
 - ⚔️ Miro Board: _Maurice vs George_
-  - [Board](https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904)
+  - [Board][miro-board]
 
 ## 3.1 Conceptual Introduction — _Perceiving Machines?_
 
@@ -126,16 +126,33 @@ Before moving to the practical activities reflect and debate these questions:
 
 ## 3.7 Readings
 
-- [How to make AI that's good for people](https://blog.google/technology/ai/how-make-ai-good-for-people/)
-- [George_Berkeley](https://en.m.wikipedia.org/wiki/George_Berkeley)
-- [Three_Dialogues_Between_Hylas_and_Philonous](https://en.wikisource.org/wiki/Three_Dialogues_Between_Hylas_and_Philonous)
-- [Maurice_Merleau-Ponty](https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty)
-- [Physiognomys-new-clothes](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a)
-- [Our-machines-now-have-knowledge-well-never-understand](https://www.wired.com/story/our-machines-now-have-knowledge-well-never-understand/)
-- [Can-you-trust-ai-heres-why-you-shouldnt](https://theconversation.com/can-you-trust-ai-heres-why-you-shouldnt-209283)
-- [The-seven-deadly-sins-of-predicting-the-future-of-ai](https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/)
-- [Facial-recognition-s-dirty-little-secret-millions-online-photos-scraped](https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921)
-- [Yuval-harari-ai-chatgpt](https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html)
-- [You-can-have-the-blue-pill-or-the-red-pill-and-were-out-of-blue-pills](https://criticalai.org/2023/04/06/noah-giansiracusa-on-you-can-have-the-blue-pill-or-the-red-pill-and-were-out-of-blue-pills-in-the-new-york-times-3-24-2023/)
-- [The-mind-expanding-ideas-of-andy-clark](https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark)
-- [The-history-of-open-source-llms-better](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-better)
+- [How to make AI that's good for people][google-how-to-make-ai-good-for-people]
+- [George Berkeley][wikipedia-george-berkeley]
+- [Three Dialogues Between Hylas and Philonous][three-dialogues]
+- [Maurice Merleau-Ponty][wikipedia-merleau-ponty]
+- [Physiognomy's New Clothes][physiognomys-new-clothes]
+- [Our machines now have knowledge we'll never understand][wired-machines-knowledge]
+- [Can you trust AI? Here's why you shouldn't][conversation-can-you-trust-ai]
+- [The seven deadly sins of predicting the future of AI][rodneybrooks-seven-deadly-sins]
+- [Facial recognition’s dirty little secret][nbcnews-facial-recognition]
+- [Yuval Harari on ChatGPT][nytimes-harari-ai-chatgpt]
+- [You can have the blue pill or the red pill...][criticalai-blue-pill]
+- [The mind‑expanding ideas of Andy Clark][newyorker-andy-clark]
+- [The history of open‑source LLMs][history-open-source-llms]
+
+[notebooklm-notebook]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74 'NotebookLM — notebook'
+[notebooklm-podcast]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74?artifactId=4f0253fe-b5c6-4697-8177-92c4323405b0 'NotebookLM — podcast excerpt'
+[miro-board]: https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904 'Miro board — Maurice vs George'
+[google-how-to-make-ai-good-for-people]: https://blog.google/technology/ai/how-make-ai-good-for-people/ "How to make AI that's good for people — Google"
+[wikipedia-george-berkeley]: https://en.m.wikipedia.org/wiki/George_Berkeley 'George Berkeley — Wikipedia'
+[three-dialogues]: https://en.wikisource.org/wiki/Three_Dialogues_Between_Hylas_and_Philonous 'Three Dialogues Between Hylas and Philonous — full text'
+[wikipedia-merleau-ponty]: https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty 'Maurice Merleau-Ponty — Wikipedia'
+[physiognomys-new-clothes]: https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a "Physiognomy's New Clothes — Medium"
+[wired-machines-knowledge]: https://www.wired.com/story/our-machines-now-have-knowledge-well-never-understand/ "Our machines now have knowledge we'll never understand — Wired"
+[conversation-can-you-trust-ai]: https://theconversation.com/can-you-trust-ai-heres-why-you-shouldnt-209283 'Can you trust AI? — The Conversation'
+[rodneybrooks-seven-deadly-sins]: https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/ 'The seven deadly sins of predicting the future of AI — Rodney Brooks'
+[nbcnews-facial-recognition]: https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921 'Facial recognition’s dirty little secret — NBC News'
+[nytimes-harari-ai-chatgpt]: https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html 'Yuval Harari on ChatGPT — NYTimes opinion'
+[criticalai-blue-pill]: https://criticalai.org/2023/04/06/noah-giansiracusa-on-you-can-have-the-blue-pill-or-the-red-pill-and-were-out-of-blue-pills-in-the-new-york-times-3-24-2023/ 'Blue pill / red pill — Critical AI'
+[newyorker-andy-clark]: https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark 'The mind‑expanding ideas of Andy Clark — The New Yorker'
+[history-open-source-llms]: https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-better 'The history of open‑source LLMs — Substack'
