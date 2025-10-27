@@ -103,16 +103,30 @@
 
 ### Part 4: Practice
 
-## [Session 02](/slides/session02.html)
+## Session 02
 
 ![Session 01 image](./assets/session02_02.png)
+### Part 1: In the news
 
-### Part 1: Trial and Error - A Common Ground ?
+1. [Iran wedding scandal][alinejad-x]
+2. GPTs in shopping
+
+   - [Official post][openai-shopping]
+   - "LLMs are slot‑machines" (16 Aug 2025 on Pluralistic) ([pluralistic.net][pluralistic-jackpot])
+   - "Elon Musk to introduce ads to X’s AI chatbot" (7 Aug 2025 on FT) ([FT][ft-ads-x])
+
+3. [AI Kill internet doc][arte-ki-doc]
+
+   - Satire distinction
+   - Eliza bot
+   - Stocastic parrot
+
+### Part 2: Trial and Error - A Common Ground ?
 
 1. The "shared" theme of learning through trial and error in both humans and AI.
 2. Implications of error-making as a learning process.
 
-### Part 2: Learning to learn
+### [Part 3: Learning to learn](./content/session02_03.md)
 
 1. Attention mechanisms
 2. Memory
@@ -121,4 +135,12 @@
 5. Motivation and spirit for changes
 6. Emotions!
 
-### Part 3: Practice
+### Part 4: Practice
+
+1. The declaration of independance
+
+[alinejad-x]: https://x.com/AlinejadMasih/status/1979867926162280534
+[openai-shopping]: https://help.openai.com/en/articles/11128490-shopping-with-chatgpt-search "Shopping with ChatGPT Search"
+[pluralistic-jackpot]: https://pluralistic.net/2025/08/16/jackpot/?utm_source=chatgpt.com "Pluralistic: LLMs are slot-machines (16 Aug 2025)"
+[ft-ads-x]: https://www.ft.com/content/3bc3a76a-8639-4dbe-8754-3053270e4605 "Elon Musk to introduce ads to X's AI chatbot"
+[arte-ki-doc]: https://www.arte.tv/de/videos/122187-000-A/ki-der-tod-des-internets/ "KI: Der Tod des Internets"
